@@ -1,0 +1,87 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "team_name": "Team AlarmClock",
+      "table_no": "05",
+      "team_leader": "Soham Datta",
+      "campus": "VIT Chennai",
+      "total_points": "27.5",
+      "status" : "Pending",
+      "image": ""
+    },
+    {
+      "id": 2,
+      "team_name": "Team DAlarmClock",
+      "table_no": "05",
+      "team_leader": "Soham Datta",
+      "campus": "VIT Chennai",
+      "total_points": "27.5",
+      "status" : "Submitted",
+      "image": ""
+    }, {
+      "id": 3,
+      "team_name": "Team AlarmClock",
+      "table_no": "05",
+      "team_leader": "Soham Datta",
+      "campus": "VIT Chennai",
+      "total_points": "27.5",
+      "status" : "Pending",
+      "image": ""
+    }, {
+      "id": 4,
+      "team_name": "Team AlarmClock",
+      "table_no": "05",
+      "team_leader": "Soham Datta",
+      "campus": "VIT Chennai",
+      "total_points": "27.5",
+      "status" : "Pending",
+      "image": ""
+    }, {
+      "id": 5,
+      "team_name": "Team AlarmClock",
+      "table_no": "05",
+      "team_leader": "Soham Datta",
+      "campus": "VIT Chennai",
+      "total_points": "27.5",
+      "status" : "Pending",
+      "image": ""
+    }, {
+      "id": 6,
+      "team_name": "Team AlarmClock",
+      "table_no": "05",
+      "team_leader": "Soham Datta",
+      "campus": "VIT Chennai",
+      "total_points": "27.5",
+      "status" : "Pending",
+      "image": ""
+    }, {
+      "id": 7,
+      "team_name": "Team AlarmClock",
+      "table_no": "05",
+      "team_leader": "Soham Datta",
+      "campus": "VIT Chennai",
+      "total_points": "27.5",
+      "status" : "Pending",
+      "image": ""
+    }, {
+      "id": 8,
+      "team_name": "Team AlarmClock",
+      "table_no": "05",
+      "team_leader": "Soham Datta",
+      "campus": "VIT Chennai",
+      "total_points": "27.5",
+      "status" : "Pending",
+      "image": ""
+    }, {
+      "id": 9,
+      "team_name": "Team AlarmClock",
+      "table_no": "05",
+      "team_leader": "Soham Datta",
+      "campus": "VIT Chennai",
+      "total_points": "27.5",
+      "status" : "Pending",
+      "image": ""
+    }
+  ]
+}

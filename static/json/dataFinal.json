@@ -1,0 +1,554 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "team_name": "Team Team Name(As in Devfolio)",
+            "table_no": "Team No(Number on your table sticker)",
+            "team_leader": "Team Leader Name",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 2,
+            "team_name": "Team Book Worm",
+            "table_no": "1",
+            "team_leader": "Aditya Mukati ",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 3,
+            "team_name": "Team Goophy Goophers",
+            "table_no": "2",
+            "team_leader": "Parshva Runwal",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 4,
+            "team_name": "Team PixelPilots",
+            "table_no": "3",
+            "team_leader": "Vishal Reddy",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 5,
+            "team_name": "Team Solvators",
+            "table_no": "4",
+            "team_leader": "Aditya S ",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 6,
+            "team_name": "Team Gravity",
+            "table_no": "5",
+            "team_leader": "Ashiq Noor Sudheer ",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 7,
+            "team_name": "Team <insert_team_name>",
+            "table_no": "6",
+            "team_leader": "S Saran",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 8,
+            "team_name": "Team Team Zero",
+            "table_no": "8",
+            "team_leader": "Patel Aarsh Miteshkumar",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 9,
+            "team_name": "Team 404_FOUND",
+            "table_no": "9",
+            "team_leader": "Eshwar B",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 10,
+            "team_name": "Team Empathetic Technocrats",
+            "table_no": "11",
+            "team_leader": "Shivam Kumar Thakur",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 11,
+            "team_name": "Team Error 404",
+            "table_no": "12",
+            "team_leader": "Sarthak Krishak",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 12,
+            "team_name": "Team Pandas",
+            "table_no": "13",
+            "team_leader": "Rudresh Pandey",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 13,
+            "team_name": "Team UniTech",
+            "table_no": "14",
+            "team_leader": "Prenitha R",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 14,
+            "team_name": "Team Gotilo",
+            "table_no": "16",
+            "team_leader": "Kalp Patel",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 15,
+            "team_name": "Team Technical Aspirants",
+            "table_no": "19",
+            "team_leader": "Prathyuma V",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 16,
+            "team_name": "Team Team Marshmallow ",
+            "table_no": "20",
+            "team_leader": "K.V Hitesh Krishna ",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 17,
+            "team_name": "Team Team Errorists",
+            "table_no": "21",
+            "team_leader": "Shreya S",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 18,
+            "team_name": "Team Unanimous",
+            "table_no": "24",
+            "team_leader": "Ananya Singh",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 19,
+            "team_name": "Team X",
+            "table_no": "25",
+            "team_leader": "Pushpak Agrawal",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 20,
+            "team_name": "Team Maelstrom",
+            "table_no": "27",
+            "team_leader": "Archisman Panda",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 21,
+            "team_name": "Team last place",
+            "table_no": "29",
+            "team_leader": "NEHUL AGGARWAL",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 22,
+            "team_name": "Team 5 Bits",
+            "table_no": "30",
+            "team_leader": "S. Naveen Raj",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 23,
+            "team_name": "Team Team p\u00e9re",
+            "table_no": "31",
+            "team_leader": "LALIT KUMAR",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 24,
+            "team_name": "Team SANKALP SAGAR ",
+            "table_no": "32",
+            "team_leader": "BHAVYA MISHRA",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 25,
+            "team_name": "Team Fixter",
+            "table_no": "33",
+            "team_leader": "Ishaan Milind Sawant",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 26,
+            "team_name": "Team Renewed Dosa ",
+            "table_no": "35",
+            "team_leader": "Saanvi Shetty ",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 27,
+            "team_name": "Team MomentumX",
+            "table_no": "36",
+            "team_leader": "Nithyasri S",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 28,
+            "team_name": "Team Soaring Coders ",
+            "table_no": "37",
+            "team_leader": "D S Priyam",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 29,
+            "team_name": "Team Campus Detectives",
+            "table_no": "38",
+            "team_leader": "Heet Jhaveri",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 30,
+            "team_name": "Team DormDocCrusaders",
+            "table_no": "40",
+            "team_leader": "Shreyas Mohanty",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 31,
+            "team_name": "Team Team Proxy",
+            "table_no": "41",
+            "team_leader": "Satish Prem Anand",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 32,
+            "team_name": "Team Infinite Innovators Inc. (III)",
+            "table_no": "42",
+            "team_leader": "Dhanush M",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 33,
+            "team_name": "Team Yatharth ",
+            "table_no": "43",
+            "team_leader": "Ishitva Kumar ",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 34,
+            "team_name": "Team KungfuPanda",
+            "table_no": "45",
+            "team_leader": "Derrick Richard",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 35,
+            "team_name": "Team Bebop",
+            "table_no": "47",
+            "team_leader": "S.Bharghav",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 36,
+            "team_name": "Team The Annomalies",
+            "table_no": "48",
+            "team_leader": "Shilpi Anand ",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 37,
+            "team_name": "Team PILLI",
+            "table_no": "49",
+            "team_leader": "Sahil Agrawal ",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 38,
+            "team_name": "Team Gilehri ",
+            "table_no": "50",
+            "team_leader": "Param Chhabra",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 39,
+            "team_name": "Team Inkie Pinkie Ponkie",
+            "table_no": "51",
+            "team_leader": "Arhan Sihag",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 40,
+            "team_name": "Team INNOV8",
+            "table_no": "52",
+            "team_leader": "SANJANA SUDARSAN",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 41,
+            "team_name": "Team ironman",
+            "table_no": "53",
+            "team_leader": "Saumya Tomar ",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 42,
+            "team_name": "Team Thomas & Friends",
+            "table_no": "54",
+            "team_leader": "Ryan Thomas",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 43,
+            "team_name": "Team WHAT_IF",
+            "table_no": "55",
+            "team_leader": "Krishna Garg",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 44,
+            "team_name": "Team HACKER-HERMIONES",
+            "table_no": "56",
+            "team_leader": "Rimmi Kumari",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 45,
+            "team_name": "Team soulSync",
+            "table_no": "57",
+            "team_leader": "Perumal yoga yuktavalli",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 46,
+            "team_name": "Team Burrito ",
+            "table_no": "58",
+            "team_leader": "Isha Negi",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 47,
+            "team_name": "Team Kiosk?",
+            "table_no": "59",
+            "team_leader": "Sahana G M",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 48,
+            "team_name": "Team bigbrain404",
+            "table_no": "60",
+            "team_leader": "Arnav Kamra",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 49,
+            "team_name": "Team Hackstreet Boys",
+            "table_no": "61",
+            "team_leader": "Grecil Parag Unadkat ",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 50,
+            "team_name": "Team Schockwave Brigade",
+            "table_no": "62",
+            "team_leader": "Abinav R",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 51,
+            "team_name": "Team APNI",
+            "table_no": "63",
+            "team_leader": "Narendra VB",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 52,
+            "team_name": "Team WASSERLUFT",
+            "table_no": "7",
+            "team_leader": "Siddhant Bhardwaj",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 53,
+            "team_name": "Team DOMINATORS",
+            "table_no": "15",
+            "team_leader": "Mohammad Shahzil",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 54,
+            "team_name": "Team CodeCrafters",
+            "table_no": "26",
+            "team_leader": "Harsh Raj A",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        },
+        {
+            "id": 55,
+            "team_name": "Team Team Quad",
+            "table_no": "46",
+            "team_leader": "Aishwaryakopika R U",
+            "campus": "VIT Chennai",
+            "total_points": "0",
+            "status": "Pending",
+            "image": ""
+        }
+    ]
+}

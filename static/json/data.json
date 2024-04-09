@@ -1,0 +1,1988 @@
+{
+    "teams": {
+      "team_1": {  
+        "campus": "VIT Chennai",
+        "email": "grecilparag.unadkat2022@vitstudent.ac.in",
+        "members": {
+          "member1": {  
+            "name": "Grecil Parag Unadkat ",
+            "role": "Leader"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+        "status": "pending",
+        "table": "02",
+        "team_name": ""
+      },
+  
+      "team_2": {
+        "campus": "VIT Chennai",
+        "email": "0",
+        "members": {
+          "member1": {
+            "name": "Lakshya Saini",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Divya Prakash Yadav",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Madhav Mani Tiwari",
+            "role": "Member"
+          },
+          "member4": {
+            "name": "Prashwah Runwal",
+            "role": "Member"
+          },
+          "member5": {
+            "name": "Vaibhav Kumar",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "02",
+        "team_name": "Goophy Gophers"
+      },
+  
+      "team_3": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "Sarthak Tripathi",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Sarvesh Dakhore",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "K Vishal Reddy",
+            "role": "Member"
+          },
+          "member4": {
+            "name": "Adarsh Dixit",
+            "role": "Member"
+          },
+          "member5": {
+            "name": "Mohanish Gupta",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "03",
+        "team_name": "PixelPilots"
+      },
+  
+      "team_4": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "Marushka Rita Fernandes",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Avin Raj P S",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Aditya S",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "04",
+        "team_name": "Solvators"
+      },
+      "team_5": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "Ashiq Noor Sudhir",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Mathew Thomas Modisseri",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Jeewan Alexan Kavalam",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "05",
+        "team_name": "Gravity"
+      },
+      "team_6": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "Atul Suresh",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Neha Francis",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "S Saran",
+            "role": "Member"
+          },
+          "member4": {
+            "name": "Dakshit Biju",
+            "role": "Member"
+          },
+          "member5": {
+            "name": "Sreelakshmi Monaj",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "06",
+        "team_name": "<insert_team_name>"
+      },
+  
+      "team_7": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "Yugal Gaur",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Siddhant Bharadwaj",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Saksham Pundir",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "07",
+        "team_name": "WasserLust"
+      },
+  
+      "team_8": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "Manav Bakliwal",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Patel Aarsh Miteshkumar",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Dhruv Pandey",
+            "role": "Member"
+          },
+          "member4": {
+            "name": "Anirudha Dey",
+            "role": "Member"
+          },
+          "member5": {
+            "name": "Bhavya Patel",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "08",
+        "team_name": "Team Zero"
+      },
+  
+      "team_9": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "B.Eshwar ",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Divya Srinivasan",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Kairav Deepeshwar K",
+            "role": "Member"
+          },
+          "member4": {
+            "name": "Meera R Deepu ",
+            "role": "Member"
+          },
+          "member5": {
+            "name": "Sarath Chender",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "09",
+        "team_name": "404_FOUND"
+      },
+  
+      "team_10": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "Soham Datta",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Naman Tolasaria",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Adesh Kumar",
+            "role": "Member"
+          },
+          "member4": {
+            "name": "Sai Pranav Thota",
+            "role": "Member"
+          },
+          "member5": {
+            "name": "David Raj",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "10",
+        "team_name": "Current Solutions"
+      },
+  
+      "team_11": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "Ayush Kumar Dubey",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Aman Kumar Maurya",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Aniket Verma",
+            "role": "Member"
+          },
+          "member4": {
+            "name": "Shivam Kumar Thakur",
+            "role": "Member"
+          },
+          "member5": {
+            "name": "Aryan Raj",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "11",
+        "team_name": "Empathetic Technocrats"
+      },
+  
+      "team_12": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "Pranav P ",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Apoorva S Jagadeesan",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Sarthak Krishak",
+            "role": "Member"
+          },
+          "member4": {
+            "name": "Kamal Sinha",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "12",
+        "team_name": "Error 404"
+      },
+  
+      "team_13": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "Saumya Gupta",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Rudresh Pandey ",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Sahil Upasane ",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "13",
+        "team_name": "Pandas"
+      },
+  
+      "team_14": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "Pradheev Krishna Tammineni",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Sagar Mondal",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Prenitha R",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "14",
+        "team_name": "Unitech"
+      },
+  
+      "team_15": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "Aviral Srivasatava",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Sreevallabh ",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Kanishk Sharma",
+            "role": "Member"
+          },
+          "member4": {
+            "name": "Siddharth Tripathi",
+            "role": "Member"
+          },
+          "member5": {
+            "name": "Mohammad Shazil",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "15",
+        "team_name": "DOMINATORS"
+      },
+  
+      "team_16": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "Kalp Patel ",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Maria Suhail ",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Priyanshu Teotia",
+            "role": "Member"
+          },
+          "member4": {
+            "name": "Shrey Nileshkumar Joshi ",
+            "role": "Member"
+          },
+          "member5": {
+            "name": "Raazi Faisal",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "16",
+        "team_name": "Gotilo"
+      },
+  
+      "team_17": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "Soham Datta",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Naman Tolasaria",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Adesh Kumar",
+            "role": "Member"
+          },
+          "member4": {
+            "name": "Sai Pranav Thota",
+            "role": "Member"
+          },
+          "member5": {
+            "name": "David Raj",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "17",
+        "team_name": "Punishers"
+      },
+  
+      "team_18": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "Soham Datta",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Naman Tolasaria",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Adesh Kumar",
+            "role": "Member"
+          },
+          "member4": {
+            "name": "Sai Pranav Thota",
+            "role": "Member"
+          },
+          "member5": {
+            "name": "David Raj",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "18",
+        "team_name": "RockTech"
+      },
+  
+      "team_19": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "Prathyuma V",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Kaavin Balasubramanian",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "P Harikrishna Reddy ",
+            "role": "Member"
+          }
+         
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "19",
+        "team_name": "Techical Aspirants"
+      },
+  
+      "team_20": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "k v Hitesh krishna",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Ayush sen gupta",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "HarshAditya Shatrma",
+            "role": "Member"
+          },
+          "member4": {
+            "name": "Piyush vyas",
+            "role": "Member"
+          }
+         
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "20",
+        "team_name": "Team Marshmallow"
+      },
+  
+      "team_21": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "Shweta S",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Shreya S",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Shwetha s",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "21",
+        "team_name": "Team Errorists"
+      },
+  
+      "team_22": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "",
+            "role": "Member"
+          },
+          "member4": {
+            "name": "",
+            "role": "Member"
+          },
+          "member5": {
+            "name": "",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "22",
+        "team_name": "Code by MoonLight"
+      },
+  
+      "team_23": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "Soham Datta",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Naman Tolasaria",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Adesh Kumar",
+            "role": "Member"
+          },
+          "member4": {
+            "name": "Sai Pranav Thota",
+            "role": "Member"
+          },
+          "member5": {
+            "name": "David Raj",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "23",
+        "team_name": "Never gonna give you up"
+      },
+  
+      "team_24": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "Ananya Singh",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Aditi Pandey",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Palak Ramani",
+            "role": "Member"
+          }
+        
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "24",
+        "team_name": "Unanimous"
+      },
+  
+      "team_25": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "Rishabh kumar",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Pushpak Agrawal",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Krishnasinh Jadeja",
+            "role": "Member"
+          }
+      
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "25",
+        "team_name": "X"
+      },
+  
+      "team_26": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "Vanshika Singh",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "A Prashanth",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Anirudh S",
+            "role": "Member"
+          },
+          "member4": {
+            "name": "Pranav Dutthan K S",
+            "role": "Member"
+          },
+          "member5": {
+            "name": "Harsh RaJ A",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "26",
+        "team_name": "CodeCrafters"
+      },
+  
+      "team_27": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "Anderew Joy Hembrom",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Vatsal Umesh Raj Ojha",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "ArchiSAMAN Panda",
+            "role": "Member"
+          }     
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "27",
+        "team_name": "Maelstorm"
+      },
+  
+      "team_28": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "Soham Datta",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Naman Tolasaria",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Adesh Kumar",
+            "role": "Member"
+          },
+          "member4": {
+            "name": "Sai Pranav Thota",
+            "role": "Member"
+          },
+          "member5": {
+            "name": "David Raj",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "28",
+        "team_name": "Aditya Kumar Team"
+      },
+  
+      "team_29": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "Nehul Agarwal",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Srishti Rai",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Subayu Ghosh",
+            "role": "Member"
+          },
+          "member4": {
+            "name": "Kumar Vishesh",
+            "role": "Member"
+          }         
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "29",
+        "team_name": "Last Place"
+      },
+  
+      "team_30": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "S Velmurgan",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Revan mj",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Sham Ganesh M",
+            "role": "Member"
+          },
+          "member4": {
+            "name": "S Naveen Raj",
+            "role": "Member"
+          },
+          "member5": {
+            "name": "Narasiman A",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "30",
+        "team_name": "5 bits"
+      },
+  
+      "team_31": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "membe32rs": {
+          "member1": {
+            "name": "Soham Rajendra Bhore",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Krishna Jaiswal",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Lalit Kumar",
+            "role": "Member"
+          },
+          "member4": {
+            "name": "Ayush Rana",
+            "role": "Member"
+          },
+          "member5": {
+            "name": "Krish Sahu",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "31",
+        "team_name": "Team pere"
+      },
+  
+      "team 32": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "Bhamya Jain",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Aamit Lodhiya",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Bhavya mishra",
+            "role": "Member"
+          },
+          "member4": {
+            "name": "Ashwini Kumar Singh Kataiyar",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "32",
+        "team_name": "SANKALP SAGAR"
+      },
+  
+      "team_33": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "Arpita Bhagwa",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Abhishek Bharadwaj",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Teerath Agrawal",
+            "role": "Member"
+          },
+          "member4": {
+            "name": "Ishan Milind Sawant",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "33",
+        "team_name": "Fixter"
+      },
+  
+      "team_35": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "Sakshi Ahuja",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Siddhartha Mallavolu ",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Saanvi Shetty ",
+            "role": "Member"
+          },
+          "member4": {
+            "name": "Aman Raj Singh ",
+            "role": "Member"
+          },
+          "member5": {
+            "name": " Tridib Chatterjee",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "35",
+        "team_name": "RenewedDosa"
+      },
+  
+      "team_36": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": " Darsi Venkata Sai Mahidhar",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Kaushikaa.k,s ",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Nithyasri S",
+            "role": "Member"
+          },
+          "member4": {
+            "name": "Sai Pranav Thota",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "36",
+        "team_name": "MomentumX."
+      },
+  
+      "team_37": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "Rohan Kumar",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Aditya Aryan",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Ashahar Yunus Khan",
+            "role": "Member"
+          },
+          "member4": {
+            "name": "D S Priyam",
+            "role": "Member"
+          },
+          "member5": {
+            "name": "Akshansh Singh",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "37",
+        "team_name": "Soaring Coders"
+      },
+  
+      "team_38": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "Snehil Chatterjee",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Heet Brijesh Jhaveri",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Amal Bangari ",
+            "role": "Member"
+          },
+          "member4": {
+            "name": "Sarthak Bansal ",
+            "role": "Member"
+          },
+          "member5": {
+            "name": "Vallari Ashar ",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "38",
+        "team_name": "Campus Detectives"
+      },
+  
+      "team_39": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "AB Mishra",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Shreyash Mohanty",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Yash Rathi",
+            "role": "Member"
+          },
+          "member4": {
+            "name": "Saksham Gupta",
+            "role": "Member"
+          },
+          "member5": {
+            "name": " Emir Husain",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "39",
+        "team_name": "BUISNESS WOMEN"
+      },
+  
+      "team_40": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "Shashwat Mishra",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Shreyash Mohanty",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Yash Rathi",
+            "role": "Member"
+          },
+          "member4": {
+            "name": "Saksham Gupta",
+            "role": "Member"
+          },
+          "member5": {
+            "name": " Emir Husain",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "40",
+        "team_name": "DormDocCrusaders"
+      },
+  
+      "team_41": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "Shambhu Pandey",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Satish Prem Anand ",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Murali Krishna Reddy ",
+            "role": "Member"
+          },
+          "member4": {
+            "name": "Sumit Paudel ",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "41",
+        "team_name": "Team Proxy"
+      },
+  
+      "team_42": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "K Sreenishi ",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Dhanush M ",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "B. Mhanjushriee",
+            "role": "Member"
+          },
+          "member4": {
+            "name": " Muhammad Abrar R",
+            "role": "Member"
+          },
+          "member5": {
+            "name": "Harinee J",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "42",
+        "team_name": "Infinte Innovators Inc. (111)"
+      },
+  
+      "team_43": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "Ishitva Kumar",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Devesh Kumar bhagwani",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Vivek Yadav",
+            "role": "Member"
+          },
+          "member4": {
+            "name": "Kshitij Shukla",
+            "role": "Member"
+          },
+          "member5": {
+            "name": "Ujjwal Kumar Tomar",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "43",
+        "team_name": "Yatharth"
+      },
+  
+      "team_44": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "Himanshu Badal",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Shivani Kumari",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Anisha Garg",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "44",
+        "team_name": "Access Denied"
+      },
+  
+      "team_45": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "Jebin Samuel",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "S Sreenevedh",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Catherine George",
+            "role": "Member"
+          },
+          "member4": {
+            "name": "Harsha varthan TN ",
+            "role": "Member"
+          },
+          "member5": {
+            "name": "Derrick Samuel R.",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "45",
+        "team_name": "KungfuPanda"
+      },
+  
+      "team_46": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "Nanditha K",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Aishwaryakopika R U ",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Lemuel Pon Whitson J",
+            "role": "Member"
+          },
+          "member4": {
+            "name": "Soma Neha Saranya",
+            "role": "Member"
+          },
+          "member5": {
+            "name": "Nitheesh Bharadwaj S",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "46",
+        "team_name": "Team Quad"
+      },
+  
+      "team_47": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "S. Bhargav",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Abhinav Anil",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Samprikta Sarkar",
+            "role": "Member"
+          },
+          "member4": {
+            "name": "Anok Anil Thomas",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "47",
+        "team_name": "BeBop"
+      },
+  
+      "team_48": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "Naman Srivastava",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Rahul Kumar Mondal",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Shilpi Anand",
+            "role": "Member"
+          },
+          "member4": {
+            "name": "Tejal Sharma",
+            "role": "Member"
+          },
+          "member5": {
+            "name": "Sriansh Tripathy",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "48",
+        "team_name": "The Annomalies"
+      },
+  
+      "team_49": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "Cythia Konar",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Monish Kumar Ramba",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Sahil Agrawal",
+            "role": "Member"
+          },
+          "member4": {
+            "name": "Asad Hadi",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "49",
+        "team_name": "PILLI"
+      },
+  
+      "team_50": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "Tavish Agrawal",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Dhairya Sharma",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Param Chhabra",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "50",
+        "team_name": "gilheri"
+      },
+  
+      "team_51": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "Arhan Sihag",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Teesha Saxena",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Kanishka Chakraborty",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "51",
+        "team_name": "Inkie Pinkie Ponkie"
+      },
+  
+      "team_52": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "Swetha Sriram",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Sanjana Sudarsan ",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Lohitaa KM",
+            "role": "Member"
+          },
+          "member4": {
+            "name": "Mansurah M",
+            "role": "Member"
+          },
+          "member5": {
+            "name": "KP Theertha ",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "52",
+        "team_name": "Innov8"
+      },
+  
+      "team_53": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "apoorva nema",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Rashmi rekha sahoo",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Saumya tomar",
+            "role": "Member"
+          },
+          "member4": {
+            "name": "Taniya rajesh",
+            "role": "Member"
+          }
+          
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "53",
+        "team_name": "ironman"
+      },
+  
+      "team_54": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "Ryan thomas ",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Rohan Eldho",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Srinath kamalaKumar",
+            "role": "Member"
+          },
+          "member4": {
+            "name": "Yashvant Balaji",
+            "role": "Member"
+          },
+          "member5": {
+            "name": "Rohit vikas Kedar",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "54",
+        "team_name": "Thomas & Friends"
+      },
+  
+      "team_55": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "Snehansh Nigam",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Krishna Garg",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Abhinav Prasad",
+            "role": "Member"
+          },
+          "member4": {
+            "name": "Kshitij Mandal",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "55",
+        "team_name": "WHAT_IF"
+      },
+  
+      "team_56": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "Sakshi biyani",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Lavanya gupta",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Rimmi Kumari",
+            "role": "Member"
+          },
+          "member4": {
+            "name": "Sakshi Srivastava",
+            "role": "Member"
+          },
+          "member5": {
+            "name": "Bhaminee Ojha",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "56",
+        "team_name": "HACKER-HERMIONES"
+      },
+  
+      "team_57": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "Kariya Tanvee Ashishbhai",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Anurag Anand",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Kashish ",
+            "role": "Member"
+          },
+          "member4": {
+            "name": "Yukta Perumal",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "57",
+        "team_name": "soulSync"
+      },
+  
+      "team_58": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "Isha Negi",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Harshita BALAJI",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Kedar Shinde",
+            "role": "Member"
+          },
+          "member4": {
+            "name": "R Ram Shankar",
+            "role": "Member"
+          },
+          "member5": {
+            "name": "Amal Shaji",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "58",
+        "team_name": "Team Burriots"
+      },
+  
+      "team_59": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "Nikhil sharma",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "idhikash J",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Sahana G M",
+            "role": "Member"
+          },
+          "member4": {
+            "name": "Harish chandran",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "59",
+        "team_name": "Kiosk?"
+      },
+  
+      "team_60": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "Aryan Kumar",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Karan Kumar",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Arnav Kamra",
+            "role": "Member"
+          },
+          "member4": {
+            "name": "Diya RaviShankar",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "60",
+        "team_name": "bigbrain404"
+      },
+  
+      "team_61": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "Joel Abhishek Beera",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Grecil Parag Unadkat",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Kunal Kuamr",
+            "role": "Member"
+          },
+          "member4": {
+            "name": "Satvik Arnav",
+            "role": "Member"
+          },
+          "member5": {
+            "name": "Tanmay",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "61",
+        "team_name": "Hackstreet Boys"
+      },
+  
+      "team_62": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "Madhusudan K",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "Abhinav R",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Tejeshvar D",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "62",
+        "team_name": "Shockwavebrigade"
+      },
+      "team_63": {
+        "campus": "VIT Chennai",
+        "email": "dattasoham805@gmail.com",
+        "members": {
+          "member1": {
+            "name": "Pradhnyesh khorgade",
+            "role": "Leader"
+          },
+          "member2": {
+            "name": "V B Narendra",
+            "role": "Member"
+          },
+          "member3": {
+            "name": "Irene Elsa Arun",
+            "role": "Member"
+          },
+          "member4": {
+            "name": "Anirudh CV",
+            "role": "Member"
+          }
+        },
+        "project": {
+          "description": "Project Description",
+          "title": "Project Title"
+        },
+  
+        "status": "pending",
+        "table": "63",
+        "team_name": "Apni"
+      } 
+  
+    }
+  
+  }
