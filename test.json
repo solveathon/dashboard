@@ -1,0 +1,29 @@
+{
+    "team_1": {
+        "members": {
+            "member1": {
+                "name": "Soham Datta",
+                "role": "Leader"
+            },
+            "member2": {
+                "name": "Aashvi Shrivastava",
+                "role": "Member"
+            },
+            "member3": {
+                "name": "Aditya Singh",
+                "role": "Member"
+            },
+            "member4": {
+                "name": "Sania Jain",
+                "role": "Member"
+            },
+            "member5": {
+                "name": "David Raj",
+                "role": "Member"
+            }
+        },
+
+        "team_name": "AlarmClock",
+        "email": "dattasoham805@gmail.com"
+    }
+}

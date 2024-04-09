@@ -1,0 +1,75 @@
+dattasoham805@gmail.com ----|
+                            |
+                            |--- members ----|
+                            |                |--- member1 ----|
+                            |                |                |--- name: "Soham Datta"
+                            |                |                |--- role: "Leader"
+                            |                |
+                            |                |--- member2 ----|
+                            |                |                |--- name: "Aashvi Shrivastava    "
+                            |                |                |--- role: "Member"
+                            |                |
+                            |                |--- member3 ----|
+                            |                |                |--- name: "Aditya Singh"
+                            |                |                |--- role: "Member"
+                            |                |  
+                            |                |--- member4 ----|
+                            |                |                |--- name: "Sania Jain"
+                            |                |                |--- role: "Member"
+                            |                |
+                            |                |--- member5 ----|
+                            |                |                |--- name: "David Raj"
+                            |                |                |--- role: "Member"
+                            |                |
+                            |
+                            |--- score ----|
+                            |              |--- round1 ----|
+                            |              |               |--- judge1: 10
+                            |              |               |--- judge2: 9
+                            |              |               |--- judge3: 8
+                            |              |               |--- judge4: 7
+                            |              |               |--- judge5: 6
+                            |              |
+                            |              |--- round2 ----|
+                            |              |               |--- judge1: 9
+                            |              |               |--- judge2: 8
+                            |              |               |--- judge3: 7
+                            |              |               |--- judge4: 6
+                            |              |               |--- judge5: 5
+                            |              |
+                            |              |--- round3 ----|
+                            |              |               |--- judge1: 8
+                            |              |               |--- judge2: 7
+                            |              |               |--- judge3: 6
+                            |              |               |--- judge4: 5
+                            |              |               |--- judge5: 4
+                            |              |
+                            |              
+                            |--- comments --- |
+                            |                 |--- judge1 ---|
+                            |                 |              |--- randomID ---|
+                            |                 |              |                |--- comment: "Good Job"
+                            |                 |              |                |--- timestamp: "2021-09-01 12:00:00"
+                            |                 |              |
+                            |                 |              |--- randomID ---|
+                            |                 |              |                |--- comment: "Nice Work"
+                            |                 |              |                |--- timestamp: "2021-09-01 12:00:00"
+                            |                 |              
+                            |                 |--- judge2 ---|--- randomID ---|
+                            |                 |              |                |--- comment: "Good Job"
+                            |                 |              |                |--- timestamp: "2021-09-01 12:00:00"
+                            |                 |              |
+                            |                 |              |--- randomID ---|
+                            |                 |              |                |--- comment: "Nice Work"
+                            |                 |              |                |--- timestamp: "2021-09-01 12:00:00"
+                            |                 
+                            |--- status: "Submitted"
+                            |
+                            |--- project ----|
+                            |                |--- title: "Project Title"
+                            |                |--- description: "Project Description"
+                            |
+                            |--- table: "05"
+                            |
+
+

@@ -1,0 +1,563 @@
+<!DOCTYPE html>
+
+<html lang="en" class="dark-style layout-navbar-fixed layout-menu-fixed layout-compact " dir="ltr"
+  data-theme="theme-default" data-assets-path="../static/" data-template="./templates/" judgeID={{judgeID}}>
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport"
+    content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />
+
+  <title>Solve-A-Thon '24 | VIT Chennai</title>
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/x-icon" href="../static/img/logo.png" />
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap"
+    rel="stylesheet">
+
+  <!-- Icons -->
+  <link rel="stylesheet" href="../static/vendor/fonts/boxicons.css" />
+  <link rel="stylesheet" href="../static/vendor/fonts/fontawesome.css" />
+  <link rel="stylesheet" href="../static/vendor/fonts/flag-icons.css" />
+
+
+  <!-- Core CSS -->
+  <link rel="stylesheet" href="../static/vendor/css/rtl/core-dark.css" class="template-customizer-core-css" />
+  <link rel="stylesheet" href="../static/vendor/css/rtl/theme-default-dark.css" class="template-customizer-theme-css" />
+  <link rel="stylesheet" href="../static/css/demo.css" />
+
+  <!-- Vendors CSS -->
+  <link rel="stylesheet" href="../static/vendor/libs/perfect-scrollbar/perfect-scrollbar.css" />
+  <link rel="stylesheet" href="../static/vendor/libs/typeahead-js/typeahead.css" />
+  <link rel="stylesheet" href="../static/vendor/libs/datatables-bs5/datatables.bootstrap5.css">
+  <link rel="stylesheet" href="../static/vendor/libs/datatables-responsive-bs5/responsive.bootstrap5.css">
+  <link rel="stylesheet" href="../static/vendor/libs/datatables-buttons-bs5/buttons.bootstrap5.css">
+  <link rel="stylesheet" href="../static/vendor/libs/select2/select2.css" />
+  <link rel="stylesheet" href="../static/vendor/libs/@form-validation/form-validation.css" />
+
+  <!-- Page CSS -->
+
+
+  <!-- Helpers -->
+  <script src="../static/vendor/js/helpers.js"></script>
+  <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/tgs-player.js"></script>
+
+  <script src="../static/vendor/js/template-customizer.js"></script>
+  <script src="../static/js/config.js"></script>
+
+</head>
+
+<body>
+
+
+
+  <!-- Layout wrapper -->
+  <div class="layout-wrapper layout-content-navbar  ">
+    <div class="layout-container">
+
+      <!-- Menu -->
+      <aside id="layout-menu" class="layout-menu menu-vertical menu bg-menu-theme">
+
+
+        <div class="app-brand demo ">
+          <a href="#" class="app-brand-link">
+            <span class="app-brand-logo demo">
+
+              <img src="../static/img/logo.png" alt="solveathon" />
+
+            </span>
+          </a>
+
+          <a href="javascript:void(0);" class="layout-menu-toggle menu-link text-large ms-auto">
+            <i class="bx bx-chevron-left bx-sm align-middle"></i>
+          </a>
+        </div>
+
+        <div class="menu-inner-shadow"></div>
+
+        <ul class="menu-inner py-1">
+          <!-- Social Media -->
+          <li class="menu-header small text-uppercase"><span class="menu-header-text" data-i18n="Socials">Socials</span>
+          </li>
+          <li class="menu-item">
+            <a href="https://solveathon.in/" target="_blank" class="menu-link">
+              <i class="menu-icon tf-icons bx bx-globe"></i>
+              <div class="text-truncate" data-i18n="Website">Website</div>
+            </a>
+          </li>
+
+          <li class="menu-item">
+            <a href="https://www.instagram.com/solveathon.vitc" target="_blank" class="menu-link">
+              <i class="menu-icon tf-icons bx bxl-instagram"></i>
+              <div class="text-truncate" data-i18n="Instagram">Instagram</div>
+            </a>
+          </li>
+
+          <li class="menu-item">
+            <a href="https://whatsapp.com/channel/0029VaSdSTBAO7RMLSuN6U3y" target="_blank" class="menu-link">
+              <i class="menu-icon tf-icons bx bxl-whatsapp"></i>
+              <div class="text-truncate" data-i18n="WhatsApp">WhatsApp</div>
+            </a>
+          </li>
+
+          <!-- Misc -->
+          <li class="menu-header small text-uppercase"><span class="menu-header-text" data-i18n="Misc">Misc</span></li>
+          <li class="menu-item">
+            <a href="https://themeselection.com/support/" target="_blank" class="menu-link">
+              <i class="menu-icon tf-icons bx bx-support"></i>
+              <div class="text-truncate" data-i18n="Support">Support</div>
+            </a>
+          </li>
+          <li class="menu-item">
+            <a href="" target="_blank" class="menu-link">
+              <i class="menu-icon tf-icons bx bx-file"></i>
+              <div class="text-truncate" data-i18n="Official Rules">Official Rules</div>
+            </a>
+          </li>
+        </ul>
+
+      </aside>
+      <!-- / Menu -->
+
+      <!-- Layout container -->
+      <div class="layout-page">
+
+        <!-- Navbar -->
+        <nav
+          class="layout-navbar container-xxl navbar navbar-expand-xl navbar-detached align-items-center bg-navbar-theme"
+          id="layout-navbar">
+
+          <div class="layout-menu-toggle navbar-nav align-items-xl-center me-3 me-xl-0   d-xl-none ">
+            <a class="nav-item nav-link px-0 me-xl-4" href="javascript:void(0)">
+              <i class="bx bx-menu bx-sm"></i>
+            </a>
+          </div>
+
+
+          <div class="navbar-nav-right d-flex align-items-center" id="navbar-collapse">
+
+            SOLVE-A-THON '24
+
+            <ul class="navbar-nav flex-row align-items-center ms-auto">
+
+              <!-- Notification -->
+              <li class="nav-item dropdown-notifications navbar-dropdown dropdown me-3 me-xl-1">
+                <a class="nav-link dropdown-toggle hide-arrow" href="javascript:void(0);" data-bs-toggle="dropdown"
+                  data-bs-auto-close="outside" aria-expanded="false">
+                  <i class="bx bx-bell bx-sm"></i>
+                  <span class="badge bg-danger rounded-pill badge-notifications">5</span>
+                </a>
+                <ul class="dropdown-menu dropdown-menu-end py-0">
+                  <li class="dropdown-menu-header border-bottom">
+                    <div class="dropdown-header d-flex align-items-center py-3">
+                      <h5 class="text-body mb-0 me-auto">Notification</h5>
+                      <a href="javascript:void(0)" class="dropdown-notifications-all text-body" data-bs-toggle="tooltip"
+                        data-bs-placement="top" title="Mark all as read"><i class="bx fs-4 bx-envelope-open"></i></a>
+                    </div>
+                  </li>
+                  <li class="dropdown-notifications-list scrollable-container">
+                    <ul class="list-group list-group-flush">
+                      <li class="list-group-item list-group-item-action dropdown-notifications-item">
+                        <div class="d-flex">
+                          <div class="flex-shrink-0 me-3">
+                            <div class="avatar">
+                              <img src="../static/img/avatars/1.png" alt class="w-px-40 h-auto rounded-circle">
+                            </div>
+                          </div>
+                          <div class="flex-grow-1">
+                            <h6 class="mb-1">Congratulation Lettie 🎉</h6>
+                            <p class="mb-0">Won the monthly best seller gold badge</p>
+                            <small class="text-muted">1h ago</small>
+                          </div>
+                          <div class="flex-shrink-0 dropdown-notifications-actions">
+                            <a href="javascript:void(0)" class="dropdown-notifications-read"><span
+                                class="badge badge-dot"></span></a>
+                            <a href="javascript:void(0)" class="dropdown-notifications-archive"><span
+                                class="bx bx-x"></span></a>
+                          </div>
+                        </div>
+                      </li>
+                      <li class="list-group-item list-group-item-action dropdown-notifications-item">
+                        <div class="d-flex">
+                          <div class="flex-shrink-0 me-3">
+                            <div class="avatar">
+                              <span class="avatar-initial rounded-circle bg-label-danger">CF</span>
+                            </div>
+                          </div>
+                          <div class="flex-grow-1">
+                            <h6 class="mb-1">Charles Franklin</h6>
+                            <p class="mb-0">Accepted your connection</p>
+                            <small class="text-muted">12hr ago</small>
+                          </div>
+                          <div class="flex-shrink-0 dropdown-notifications-actions">
+                            <a href="javascript:void(0)" class="dropdown-notifications-read"><span
+                                class="badge badge-dot"></span></a>
+                            <a href="javascript:void(0)" class="dropdown-notifications-archive"><span
+                                class="bx bx-x"></span></a>
+                          </div>
+                        </div>
+                      </li>
+                      <li class="list-group-item list-group-item-action dropdown-notifications-item marked-as-read">
+                        <div class="d-flex">
+                          <div class="flex-shrink-0 me-3">
+                            <div class="avatar">
+                              <img src="../static/img/avatars/2.png" alt class="w-px-40 h-auto rounded-circle">
+                            </div>
+                          </div>
+                          <div class="flex-grow-1">
+                            <h6 class="mb-1">New Message ✉️</h6>
+                            <p class="mb-0">You have new message from Natalie</p>
+                            <small class="text-muted">1h ago</small>
+                          </div>
+                          <div class="flex-shrink-0 dropdown-notifications-actions">
+                            <a href="javascript:void(0)" class="dropdown-notifications-read"><span
+                                class="badge badge-dot"></span></a>
+                            <a href="javascript:void(0)" class="dropdown-notifications-archive"><span
+                                class="bx bx-x"></span></a>
+                          </div>
+                        </div>
+                      </li>
+                      <li class="list-group-item list-group-item-action dropdown-notifications-item">
+                        <div class="d-flex">
+                          <div class="flex-shrink-0 me-3">
+                            <div class="avatar">
+                              <span class="avatar-initial rounded-circle bg-label-success"><i
+                                  class="bx bx-cart"></i></span>
+                            </div>
+                          </div>
+                          <div class="flex-grow-1">
+                            <h6 class="mb-1">Whoo! You have new order 🛒 </h6>
+                            <p class="mb-0">ACME Inc. made new order $1,154</p>
+                            <small class="text-muted">1 day ago</small>
+                          </div>
+                          <div class="flex-shrink-0 dropdown-notifications-actions">
+                            <a href="javascript:void(0)" class="dropdown-notifications-read"><span
+                                class="badge badge-dot"></span></a>
+                            <a href="javascript:void(0)" class="dropdown-notifications-archive"><span
+                                class="bx bx-x"></span></a>
+                          </div>
+                        </div>
+                      </li>
+                      <li class="list-group-item list-group-item-action dropdown-notifications-item marked-as-read">
+                        <div class="d-flex">
+                          <div class="flex-shrink-0 me-3">
+                            <div class="avatar">
+                              <img src="../static/img/avatars/9.png" alt class="w-px-40 h-auto rounded-circle">
+                            </div>
+                          </div>
+                          <div class="flex-grow-1">
+                            <h6 class="mb-1">Application has been approved 🚀 </h6>
+                            <p class="mb-0">Your ABC project application has been approved.</p>
+                            <small class="text-muted">2 days ago</small>
+                          </div>
+                          <div class="flex-shrink-0 dropdown-notifications-actions">
+                            <a href="javascript:void(0)" class="dropdown-notifications-read"><span
+                                class="badge badge-dot"></span></a>
+                            <a href="javascript:void(0)" class="dropdown-notifications-archive"><span
+                                class="bx bx-x"></span></a>
+                          </div>
+                        </div>
+                      </li>
+                      <li class="list-group-item list-group-item-action dropdown-notifications-item marked-as-read">
+                        <div class="d-flex">
+                          <div class="flex-shrink-0 me-3">
+                            <div class="avatar">
+                              <span class="avatar-initial rounded-circle bg-label-success"><i
+                                  class="bx bx-pie-chart-alt"></i></span>
+                            </div>
+                          </div>
+                          <div class="flex-grow-1">
+                            <h6 class="mb-1">Monthly report is generated</h6>
+                            <p class="mb-0">July monthly financial report is generated </p>
+                            <small class="text-muted">3 days ago</small>
+                          </div>
+                          <div class="flex-shrink-0 dropdown-notifications-actions">
+                            <a href="javascript:void(0)" class="dropdown-notifications-read"><span
+                                class="badge badge-dot"></span></a>
+                            <a href="javascript:void(0)" class="dropdown-notifications-archive"><span
+                                class="bx bx-x"></span></a>
+                          </div>
+                        </div>
+                      </li>
+                      <li class="list-group-item list-group-item-action dropdown-notifications-item marked-as-read">
+                        <div class="d-flex">
+                          <div class="flex-shrink-0 me-3">
+                            <div class="avatar">
+                              <img src="../static/img/avatars/5.png" alt class="w-px-40 h-auto rounded-circle">
+                            </div>
+                          </div>
+                          <div class="flex-grow-1">
+                            <h6 class="mb-1">Send connection request</h6>
+                            <p class="mb-0">Peter sent you connection request</p>
+                            <small class="text-muted">4 days ago</small>
+                          </div>
+                          <div class="flex-shrink-0 dropdown-notifications-actions">
+                            <a href="javascript:void(0)" class="dropdown-notifications-read"><span
+                                class="badge badge-dot"></span></a>
+                            <a href="javascript:void(0)" class="dropdown-notifications-archive"><span
+                                class="bx bx-x"></span></a>
+                          </div>
+                        </div>
+                      </li>
+                      <li class="list-group-item list-group-item-action dropdown-notifications-item">
+                        <div class="d-flex">
+                          <div class="flex-shrink-0 me-3">
+                            <div class="avatar">
+                              <img src="../static/img/avatars/6.png" alt class="w-px-40 h-auto rounded-circle">
+                            </div>
+                          </div>
+                          <div class="flex-grow-1">
+                            <h6 class="mb-1">New message from Jane</h6>
+                            <p class="mb-0">Your have new message from Jane</p>
+                            <small class="text-muted">5 days ago</small>
+                          </div>
+                          <div class="flex-shrink-0 dropdown-notifications-actions">
+                            <a href="javascript:void(0)" class="dropdown-notifications-read"><span
+                                class="badge badge-dot"></span></a>
+                            <a href="javascript:void(0)" class="dropdown-notifications-archive"><span
+                                class="bx bx-x"></span></a>
+                          </div>
+                        </div>
+                      </li>
+                      <li class="list-group-item list-group-item-action dropdown-notifications-item marked-as-read">
+                        <div class="d-flex">
+                          <div class="flex-shrink-0 me-3">
+                            <div class="avatar">
+                              <span class="avatar-initial rounded-circle bg-label-warning"><i
+                                  class="bx bx-error"></i></span>
+                            </div>
+                          </div>
+                          <div class="flex-grow-1">
+                            <h6 class="mb-1">CPU is running high</h6>
+                            <p class="mb-0">CPU Utilization Percent is currently at 88.63%,</p>
+                            <small class="text-muted">5 days ago</small>
+                          </div>
+                          <div class="flex-shrink-0 dropdown-notifications-actions">
+                            <a href="javascript:void(0)" class="dropdown-notifications-read"><span
+                                class="badge badge-dot"></span></a>
+                            <a href="javascript:void(0)" class="dropdown-notifications-archive"><span
+                                class="bx bx-x"></span></a>
+                          </div>
+                        </div>
+                      </li>
+                    </ul>
+                  </li>
+                  <li class="dropdown-menu-footer border-top p-3">
+                    <button class="btn btn-primary text-uppercase w-100">view all notifications</button>
+                  </li>
+                </ul>
+              </li>
+              <!--/ Notification -->
+
+              <!-- Style Switcher -->
+              <li class="nav-item dropdown-style-switcher dropdown me-2 me-xl-0 ">
+                <a class="nav-link dropdown-toggle hide-arrow" href="javascript:void(0);" data-bs-toggle="dropdown">
+                  <i class='bx bx-sm'></i>
+                </a>
+                <ul class="dropdown-menu dropdown-menu-end dropdown-styles">
+                  <li>
+                    <a class="dropdown-item" href="javascript:void(0);" data-theme="light">
+                      <span class="align-middle"><i class='bx bx-sun me-2'></i>Light</span>
+                    </a>
+                  </li>
+                  <li>
+                    <a class="dropdown-item" href="javascript:void(0);" data-theme="dark">
+                      <span class="align-middle"><i class="bx bx-moon me-2"></i>Dark</span>
+                    </a>
+                  </li>
+                  <li>
+                    <a class="dropdown-item" href="javascript:void(0);" data-theme="system">
+                      <span class="align-middle"><i class="bx bx-desktop me-2"></i>System</span>
+                    </a>
+                  </li>
+                </ul>
+              </li>
+              <!-- / Style Switcher-->
+
+              <li class="nav-item me-3 dropdown me-2 me-xl-0 mx-2">
+                <a class="dropdown-item" href="/logout">
+                  <i class="bx bx-power-off bx-sm"></i>
+                </a>
+              </li>
+
+
+
+            </ul>
+          </div>
+
+        </nav>
+        <!-- / Navbar -->
+
+        <!-- Content wrapper -->
+        <div class="content-wrapper">
+
+          <!-- Content -->
+
+          <div class="container-xxl flex-grow-1 container-p-y">
+
+            <div class="card bg-transparent shadow-none border-0 my-4">
+              <div class="card-body row p-0 pb-3">
+
+                <!-- Header Start -->
+                <div class="col-12 col-md-8 card-separator">
+                  <h3><b>Welcome, Dr. Soham! 👋🏻</b></h3>
+                  <div class="col-12 col-lg-7">
+                    <p>Bring out your innovative ideas and create an awesome project! ✨</p>
+                  </div>
+                  <div class="d-flex justify-content-between flex-wrap gap-3 me-5">
+                    <div class="d-flex align-items-center gap-3 me-4 me-sm-0">
+                      <span class=" bg-label-primary p-2 rounded">
+                        <i class="fa-solid fa-couch fa-lg"></i>
+                      </span>
+                      <div class="content-right">
+                        <p class="mb-0">Judge ID</p>
+                        <h4 class="text-primary mb-0" id="judgeID"></h4>
+                      </div>
+                    </div>
+                    <div class="d-flex align-items-center gap-3">
+                      <span class="bg-label-info p-2 rounded">
+                        <i class="fa-solid fa-wifi fa-lg"></i>
+                      </span>
+                      <div class="content-right">
+                        <p class="mb-0">VITC-PGM</p>
+                        <h5 class="text-info mb-0">{{ eventDetails['wifiPassword'] }}</h5>
+                      </div>
+                    </div>
+                    <div class="d-flex align-items-center gap-3">
+                      <span class="bg-label-warning p-2 rounded">
+                        <i class='bx bxs-bullseye bx-sm'></i>
+                      </span>
+                      <div class="content-right">
+                        <p class="mb-0">Current Round</p>
+                        <h4 class="text-warning mb-0">{{ eventDetails['current_round'] }}</h4>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <!-- Header End -->
+
+                <!-- Time Left Start -->
+                <div class="col-12 col-md-4 ps-md-3 ps-lg-5 pt-3 pt-md-0">
+                  <div class="d-flex justify-content-between align-items-center">
+                    <div>
+                      <div>
+                        <h5 class="mb-2"><b>Time Left</b></h5>
+                      </div>
+                      <div class="time-spending-chart">
+                        <h3 class="mb-2" id="countdown"></h3>
+                      </div>
+                    </div>
+                    <tgs-player autoplay loop mode="normal" src="../static/img/sticker.tgs"></tgs-player>
+                  </div>
+                </div>
+                <!-- Time Left End -->
+
+              </div>
+            </div>
+
+            <!-- Participants List Table -->
+            <div class="card">
+
+              <div class="card-datatable table-responsive">
+                <table class="datatables-customers table border-top">
+                  <thead>
+                    <tr>
+                      <th></th>
+                      <th></th>
+                      <th>Team Name</th>
+                      <th class="text-nowrap">Table Number</th>
+                      <th>Campus</th>
+                      <th>Status</th>
+                      <th class="text-nowrap">Total Points</th>
+                    </tr>
+                  </thead>
+                </table>
+              </div>
+            </div>
+
+          </div>
+          <!-- / Content -->
+
+          <!-- Footer -->
+          <footer class="content-footer footer bg-footer-theme">
+            <div class="container-xxl d-flex flex-wrap justify-content-between py-2 flex-md-row flex-column">
+              <div class="mb-2 mb-md-0">
+                ©
+                <script>
+                  document.write(new Date().getFullYear())
+
+                </script>, made with ❤️ by <a href="https://www.instagram.com/soham._.datta/" target="_blank"
+                  class="footer-link fw-medium">Soham Datta</a>
+              </div>
+
+            </div>
+          </footer>
+          <!-- / Footer -->
+
+
+          <div class="content-backdrop fade"></div>
+        </div>
+        <!-- Content wrapper -->
+      </div>
+      <!-- / Layout page -->
+    </div>
+
+    <!-- Overlay -->
+    <div class="layout-overlay layout-menu-toggle"></div>
+
+    <!-- Drag Target Area To SlideIn Menu On Small Screens -->
+    <div class="drag-target"></div>
+
+  </div>
+  <!-- / Layout wrapper -->
+
+  <script>
+    const judgeID = document.documentElement.getAttribute("judgeID");
+
+    var numericPart = judgeID.split("_")[1];
+    var formattedID = numericPart.padStart(2, "0");
+
+    document.getElementById("judgeID").innerHTML = formattedID;
+  </script>
+
+  <!-- Core JS -->
+  <!-- build:js assets/vendor/js/core.js -->
+
+  <script src="../static/vendor/libs/jquery/jquery.js"></script>
+  <script src="../static/vendor/libs/popper/popper.js"></script>
+  <script src="../static/vendor/js/bootstrap.js"></script>
+  <script src="../static/vendor/libs/perfect-scrollbar/perfect-scrollbar.js"></script>
+  <script src="../static/vendor/libs/hammer/hammer.js"></script>
+  <script src="../static/vendor/libs/i18n/i18n.js"></script>
+  <script src="../static/vendor/libs/typeahead-js/typeahead.js"></script>
+  <script src="../static/vendor/js/menu.js"></script>
+
+  <!-- endbuild -->
+
+  <!-- Vendors JS -->
+  <script src="../static/vendor/libs/moment/moment.js"></script>
+  <script src="../static/vendor/libs/datatables-bs5/datatables-bootstrap5.js"></script>
+  <script src="../static/vendor/libs/select2/select2.js"></script>
+  <script src="../static/vendor/libs/@form-validation/popular.js"></script>
+  <script src="../static/vendor/libs/@form-validation/bootstrap5.js"></script>
+  <script src="../static/vendor/libs/@form-validation/auto-focus.js"></script>
+  <script src="../static/vendor/libs/cleavejs/cleave.js"></script>
+  <script src="../static/vendor/libs/cleavejs/cleave-phone.js"></script>
+
+  <!-- Main JS -->
+  <script src="../static/js/main.js"></script>
+  <script src="../static/js/script.js"></script>
+
+  <!-- Page JS -->
+  <script src="../static/js/app-ecommerce-customer-all.js"></script>
+
+</body>
+
+</html>
+
+<!-- beautify ignore:end -->
